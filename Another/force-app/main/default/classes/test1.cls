@@ -4,7 +4,7 @@ public  with sharing class test1 {
 list<string>  a = new list<string>();
 a.add('test13');
 a.add('test14');
-System.debug('student list' );
+System.debug('student list 34' );
 
 getAllActiveAccounts();
     }
